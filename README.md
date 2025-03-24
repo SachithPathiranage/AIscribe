@@ -1,6 +1,10 @@
 # AIscribe: Multimodal Content Analysis System
 
-![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/banner.png)
+![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/video_analyzing.png)
+![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/video_analyzing_2.png)
+![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/image_analyzing.png)
+![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/image_analyzing_2.png)
+![AIscribe](https://github.com/SachithPathiranage/multimodal-chatbot/assets/audio_analyzing_2.png)
 
 AIscribe is a comprehensive content analysis system that leverages AI to extract insights from multiple types of media. It processes and analyzes images, audio, videos, documents, and more, providing intelligent summaries, transcriptions, sentiment analysis, and key information extraction.
 
